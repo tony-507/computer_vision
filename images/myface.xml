@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faces>
+	<face file="me_1.jpg" xf="1465" xm="1481" xs="2021" yf="1465" ym="997" ys="1254"/>
+	<face file="me_2.jpg" xf="1446" xm="1471" xs="1983" yf="1565" ym="1097" ys="1326"/>
+	<face file="me_3.jpg" xf="1355" xm="1371" xs="1911" yf="1383" ym="878" ys="1138"/>
+	<face file="me_4.jpg" xf="1383" xm="1405" xs="1926" yf="1474" ym="1000" ys="1232"/>
+</faces>
